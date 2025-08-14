@@ -14,8 +14,8 @@ body {
 }
 
 body {
-     font-family: 'Montserrat', sans-serif;
-    /* height: 100vh; */
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     background-color: #fff;
@@ -419,7 +419,7 @@ tbody td {
         gap: 10px;
     }
 
-     header ul{
+    header ul {
         display: none !important;
     }
 
